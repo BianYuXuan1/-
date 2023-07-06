@@ -1,4 +1,4 @@
-# -# 准备环境
+# 准备环境
 ```
 cd /2022_bishe/q2l
 pip install -r requirments.txt
